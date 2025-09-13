@@ -42,14 +42,13 @@ Implemented a system for real-time face recognition using Python & OpenCV.
 ---
 
 ## 📚 Certifications
-- Master Microservices – Spring, Docker, Kubernetes (Udemy)
-- Java Full Stack Web Development (Seed Infotech)
-- Python & Django Full Stack Developer (Udemy)
+- Master Microservices – Spring, Docker, Kubernetes (Udemy)  
+- Java Full Stack Web Development (Seed Infotech)  
+- Python & Django Full Stack Developer (Udemy)  
 
 ---
 
 ## 📫 Connect with Me
-
 📍 Location: Pune, Maharashtra  
 📧 Email: [uday.shastrakar@gmail.com](mailto:uday.shastrakar@gmail.com)  
 🔗 GitHub: [https://github.com/Uday-Shastrakar](https://github.com/Uday-Shastrakar)  
