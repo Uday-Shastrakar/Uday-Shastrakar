@@ -1,59 +1,159 @@
 # 👋 Hi, I'm Uday Shastrakar
 
-## 🚀 About Me
-I'm a passionate **Software Engineer** with 1.5+ years of experience specializing in **Java, Kotlin, Spring Boot, and Microservices**.  
-I love designing scalable backend systems, building elegant web applications, and solving challenging problems with clean, maintainable code.
+🚀 **Backend Developer | Java | Kotlin | Spring Boot | Microservices**
+
+Backend Developer with **1.5+ years of experience** building scalable backend systems using **Java, Kotlin, and Spring Boot**.
+
+📍 Pune, Maharashtra, India
 
 ---
 
-## 🌟 My Skills
+# 🚀 Tech Stack
 
-### 💻 Programming Languages
-Java | Kotlin | JavaScript | TypeScript | Python | SQL
+### Programming
 
-### ⚙️ Backend Frameworks
-Spring Boot | Spring MVC | Hibernate | Django
+Java • Kotlin • JavaScript • TypeScript • Python • SQL
 
-### 🖥️ Frontend Frameworks
-React | Angular | Vue.js | ExtJS
+### Backend
 
-### 🔧 DevOps & Tools
-Docker | Kubernetes | Jenkins | Git | Liquibase | Flyway
+Spring Boot • Spring MVC • Hibernate • JPA • FastAPI • REST APIs • Microservices
 
-### 📊 Databases
-MySQL | MongoDB
+### Frontend
 
-### 🧱 Messaging Systems
-Kafka | RabbitMQ
+React • Angular • HTML • CSS • TypeScript • ExtJS
 
----
+### Databases
 
-## 🏆 Projects
+MySQL • MongoDB • PostgreSQL • Liquibase • Flyway
 
-### ✅ Survey Data Collection Platform  
-A robust platform for healthcare research to collect survey data efficiently with user-friendly interfaces.
+### Messaging
 
-### ✅ Exam Portal  
-Built a full-stack exam system for managing exams, questions, and results with Angular & Spring Boot.
+Kafka • RabbitMQ
 
-### ✅ Face Recognition System  
-Implemented a system for real-time face recognition using Python & OpenCV.
+### DevOps
+
+Docker • Jenkins • Kubernetes
+
+### Tools
+
+Swagger • Postman • Confluence • Jira • Git
 
 ---
 
-## 📚 Certifications
-- Master Microservices – Spring, Docker, Kubernetes (Udemy)  
-- Java Full Stack Web Development (Seed Infotech)  
-- Python & Django Full Stack Developer (Udemy)  
+# 💼 Experience
+
+## Atlas Primary (Manifest Health)
+
+**Junior Software Engineer**
+Jun 2023 – Mar 2024
+
+* Built scalable microservices using **Java, Kotlin, Spring Boot**
+* Improved API performance through optimized **MySQL queries**
+* Automated **Jenkins CI/CD pipelines**
+* Worked in Agile development environment
 
 ---
 
-## 📫 Connect with Me
-📍 Location: Pune, Maharashtra  
-📧 Email: [uday.shastrakar@gmail.com](mailto:uday.shastrakar@gmail.com)  
-🔗 GitHub: [https://github.com/Uday-Shastrakar](https://github.com/Uday-Shastrakar)  
-🌐 Portfolio: [My Portfolio Site](https://udayshastrakar.github.io)
+## Velotech Solutions
+
+**Software Engineer Intern**
+Jan 2023 – May 2023
+
+* Developed backend APIs using **Spring Boot & Hibernate**
+* Designed optimized SQL queries
+* Built UI modules using **ExtJS**
 
 ---
 
-✨ Let's build something amazing together! 🚀
+# 🚧 Currently Building
+
+## StrikeIQ – Real-Time Options Analytics Platform
+
+StrikeIQ is a **real-time options trading intelligence platform**.
+
+Features:
+
+* Real-time **market data streaming**
+* **Option chain analysis**
+* **Strike analytics**
+* AI assisted trading insights
+
+Architecture:
+
+Frontend
+React
+
+Backend
+Python FastAPI
+
+Real-time communication
+WebSockets
+
+---
+
+# 🏆 Projects
+
+## Survey Data Collection Platform
+
+Healthcare research platform used for collecting and managing survey data.
+
+Tech
+Java • Kotlin • Spring Boot • MySQL • MongoDB • Docker • Jenkins
+
+---
+
+## Exam Portal
+
+Online exam management system.
+
+Features:
+
+* Admin exam creation
+* Student exam interface
+* Timer-based exams
+* Auto grading
+
+Tech
+Spring Boot • React • ExtJS
+
+---
+
+## Face Recognition System
+
+Real-time face recognition system using computer vision.
+
+Tech
+Python • OpenCV • face_recognition
+
+---
+
+# 🎓 Education
+
+Bachelor of Computer Application (BCA)
+Gondwana University
+
+---
+
+# 📚 Certifications
+
+✔ Master Microservices – Spring, Docker, Kubernetes
+
+✔ Java Full Stack Development – Seed Infotech
+
+✔ Python & Django Full Stack Developer
+
+---
+
+# 📫 Connect With Me
+
+Email
+[uday.shastrakar@gmail.com](mailto:uday.shastrakar@gmail.com)
+
+LinkedIn
+https://www.linkedin.com/in/uday-shastrakar/
+
+GitHub
+https://github.com/Uday-Shastrakar
+
+Portfolio
+https://udayshastrakar.github.io
