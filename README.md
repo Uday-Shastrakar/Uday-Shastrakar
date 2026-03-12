@@ -1,159 +1,114 @@
-# 👋 Hi, I'm Uday Shastrakar
+# Hi 👋 I'm Uday Shastrakar
 
-🚀 **Backend Developer | Java | Kotlin | Spring Boot | Microservices**
+Backend Engineer | Java • Spring Boot • Microservices • FastAPI
 
-Backend Developer with **1.5+ years of experience** building scalable backend systems using **Java, Kotlin, and Spring Boot**.
+I build scalable backend systems, real-time data pipelines, and AI-driven analytics platforms.
 
-📍 Pune, Maharashtra, India
+Currently building **StrikeIQ** — an AI-powered real-time options intelligence platform that processes live broker market data and generates trading insights.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Featured Project
 
-### Programming
+### StrikeIQ — AI Powered Options Intelligence Platform
 
-Java • Kotlin • JavaScript • TypeScript • Python • SQL
+A real-time trading analytics platform that integrates with live broker market data feeds.
+
+Key Capabilities:
+
+• Live broker WebSocket market data integration  
+• Real-time option chain analytics  
+• AI/ML based pattern detection  
+• Trading insight generation  
+• Interactive React dashboard  
+
+### Architecture
+
+Broker Market Data API  
+↓  
+WebSocket Streaming  
+↓  
+FastAPI Backend  
+↓  
+Analytics Engine  
+↓  
+AI / ML Models  
+↓  
+Trading Insights  
+↓  
+React Dashboard
+
+---
+
+## 💻 Tech Stack
 
 ### Backend
-
-Spring Boot • Spring MVC • Hibernate • JPA • FastAPI • REST APIs • Microservices
+Java • Kotlin • Spring Boot • FastAPI
 
 ### Frontend
-
-React • Angular • HTML • CSS • TypeScript • ExtJS
+React • JavaScript • HTML • CSS
 
 ### Databases
-
-MySQL • MongoDB • PostgreSQL • Liquibase • Flyway
-
-### Messaging
-
-Kafka • RabbitMQ
+MySQL • MongoDB
 
 ### DevOps
-
-Docker • Jenkins • Kubernetes
+Docker • Jenkins
 
 ### Tools
-
-Swagger • Postman • Confluence • Jira • Git
-
----
-
-# 💼 Experience
-
-## Atlas Primary (Manifest Health)
-
-**Junior Software Engineer**
-Jun 2023 – Mar 2024
-
-* Built scalable microservices using **Java, Kotlin, Spring Boot**
-* Improved API performance through optimized **MySQL queries**
-* Automated **Jenkins CI/CD pipelines**
-* Worked in Agile development environment
+Git • Linux • Postman
 
 ---
 
-## Velotech Solutions
+## 📦 Projects
 
-**Software Engineer Intern**
-Jan 2023 – May 2023
-
-* Developed backend APIs using **Spring Boot & Hibernate**
-* Designed optimized SQL queries
-* Built UI modules using **ExtJS**
-
----
-
-# 🚧 Currently Building
-
-## StrikeIQ – Real-Time Options Analytics Platform
-
-StrikeIQ is a **real-time options trading intelligence platform**.
+### 🏦 Online Banking Microservices System
+Backend banking simulation built with Spring Boot microservices architecture.
 
 Features:
-
-* Real-time **market data streaming**
-* **Option chain analysis**
-* **Strike analytics**
-* AI assisted trading insights
-
-Architecture:
-
-Frontend
-React
-
-Backend
-Python FastAPI
-
-Real-time communication
-WebSockets
+• Account management APIs  
+• Transaction processing  
+• Layered architecture (Controller → Service → Repository)
 
 ---
 
-# 🏆 Projects
+### 🎓 Exam Portal
+Full-stack online examination system.
 
-## Survey Data Collection Platform
-
-Healthcare research platform used for collecting and managing survey data.
-
-Tech
-Java • Kotlin • Spring Boot • MySQL • MongoDB • Docker • Jenkins
+Tech:
+Spring Boot • React • MySQL
 
 ---
 
-## Exam Portal
+### 🤖 Face Recognition System
+Computer vision project for real-time face detection and recognition.
 
-Online exam management system.
-
-Features:
-
-* Admin exam creation
-* Student exam interface
-* Timer-based exams
-* Auto grading
-
-Tech
-Spring Boot • React • ExtJS
+Tech:
+Python • OpenCV
 
 ---
 
-## Face Recognition System
+## 💼 Professional Experience
 
-Real-time face recognition system using computer vision.
+Software Developer — Manifest Health (Atlas Primary)
 
-Tech
-Python • OpenCV • face_recognition
+Worked on backend services for a healthcare survey data collection platform.
 
----
+Responsibilities:
 
-# 🎓 Education
-
-Bachelor of Computer Application (BCA)
-Gondwana University
-
----
-
-# 📚 Certifications
-
-✔ Master Microservices – Spring, Docker, Kubernetes
-
-✔ Java Full Stack Development – Seed Infotech
-
-✔ Python & Django Full Stack Developer
+• REST API development using Spring Boot  
+• Database schema design (MySQL & MongoDB)  
+• Data processing services  
+• CI/CD using Docker and Jenkins  
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-Email
-[uday.shastrakar@gmail.com](mailto:uday.shastrakar@gmail.com)
+Portfolio  
+https://uday-shastrakar.github.io/PortfolioWebsite/
 
-LinkedIn
+LinkedIn  
 https://www.linkedin.com/in/uday-shastrakar/
 
-GitHub
+GitHub  
 https://github.com/Uday-Shastrakar
-
-Portfolio
-https://udayshastrakar.github.io
