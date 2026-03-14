@@ -10,7 +10,7 @@ Currently building **StrikeIQ** — an AI-powered real-time options intelligence
 
 ## 🚀 Featured Project
 
-### StrikeIQ — AI Powered Options Intelligence Platform
+###  AI Powered Options Intelligence Platform
 
 A real-time trading analytics platform that integrates with live broker market data feeds.
 
